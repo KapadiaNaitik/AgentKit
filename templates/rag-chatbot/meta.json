@@ -1,0 +1,16 @@
+{
+  "name": "RAG Chatbot",
+  "description": "This flow builds a chatbot that answers questions based on a context database containing all relevant information. User queries are answered using the existing documentation.",
+  "tags": [
+    "Support",
+    "Operations"
+  ],
+  "testInput": "",
+  "githubUrl": "",
+  "documentationUrl": "",
+  "deployUrl": "",
+  "author": {
+    "name": "Naitik Kapadia",
+    "email": "naitikk@lamatic.ai"
+  }
+}
