@@ -5,10 +5,10 @@
     "Support",
     "SAAS"
   ],
-  "testInput": "",
+  "testInput": null,
   "githubUrl": "",
   "documentationUrl": "",
-  "deployUrl": "",
+  "deployUrl": "https://studio.lamatic.ai/_?templateSlug=document-chatbot",
   "author": {
     "name": "Naitik Kapadia",
     "email": "naitikk@lamatic.ai"

@@ -5,10 +5,10 @@
     "Support",
     "Operations"
   ],
-  "testInput": "",
+  "testInput": null,
   "githubUrl": "",
   "documentationUrl": "",
-  "deployUrl": "",
+  "deployUrl": "https://studio.lamatic.ai/_?templateSlug=vectorize-google-sheets",
   "author": {
     "name": "Naitik Kapadia",
     "email": "naitikk@lamatic.ai"

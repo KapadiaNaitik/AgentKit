@@ -6,10 +6,10 @@
     "Product",
     "Marketing"
   ],
-  "testInput": "",
+  "testInput": null,
   "githubUrl": "",
   "documentationUrl": "",
-  "deployUrl": "",
+  "deployUrl": "https://studio.lamatic.ai/_?templateSlug=caption-image",
   "author": {
     "name": "Naitik Kapadia",
     "email": "naitikk@lamatic.ai"

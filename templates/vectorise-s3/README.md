@@ -1,3 +1,10 @@
+
+<a href="https://studio.lamatic.ai/_?templateSlug=vectorise-s3" target="_blank" style="text-decoration:none;">
+  <div align="right">
+    <span style="display:inline-block;background:#e63946;color:#fff;border-radius:6px;padding:10px 22px;font-size:16px;font-weight:bold;letter-spacing:0.5px;text-align:center;transition:background 0.2s;box-shadow:0 2px 8px 0 #0001;">Deploy on Lamatic</span>
+  </div>
+</a>
+
 # Vectorise S3
 
 ## About This Flow
@@ -16,10 +23,6 @@ This workflow includes the following node types:
 - chunkNode
 - vectorizeNode
 - IndexNode
-
-## Configuration Requirements
-
-This flow requires configuration for **0 node(s)** with private inputs (credentials, API keys, model selections, etc.). All required configurations are documented in the `inputs.json` file.
 
 ## Files Included
 

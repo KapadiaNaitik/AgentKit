@@ -6,10 +6,10 @@
     "SAAS",
     "Engineering"
   ],
-  "testInput": "",
+  "testInput": null,
   "githubUrl": "",
   "documentationUrl": "",
-  "deployUrl": "",
+  "deployUrl": "https://studio.lamatic.ai/_?templateSlug=combined-keyword-search",
   "author": {
     "name": "Naitik Kapadia",
     "email": "naitikk@lamatic.ai"

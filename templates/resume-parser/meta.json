@@ -5,10 +5,10 @@
     "Support",
     "HR"
   ],
-  "testInput": "",
+  "testInput": null,
   "githubUrl": "",
   "documentationUrl": "",
-  "deployUrl": "",
+  "deployUrl": "https://studio.lamatic.ai/_?templateSlug=resume-parser",
   "author": {
     "name": "Naitik Kapadia",
     "email": "naitikk@lamatic.ai"

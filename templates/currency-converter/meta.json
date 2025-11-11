@@ -5,10 +5,10 @@
     "Support",
     "Operations"
   ],
-  "testInput": "",
+  "testInput": null,
   "githubUrl": "",
   "documentationUrl": "",
-  "deployUrl": "",
+  "deployUrl": "https://studio.lamatic.ai/_?templateSlug=currency-converter",
   "author": {
     "name": "Naitik Kapadia",
     "email": "naitikk@lamatic.ai"

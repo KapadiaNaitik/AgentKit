@@ -4,10 +4,10 @@
   "tags": [
     "Operations"
   ],
-  "testInput": "",
+  "testInput": null,
   "githubUrl": "",
   "documentationUrl": "",
-  "deployUrl": "",
+  "deployUrl": "https://studio.lamatic.ai/_?templateSlug=candidate-screener",
   "author": {
     "name": "Naitik Kapadia",
     "email": "naitikk@lamatic.ai"

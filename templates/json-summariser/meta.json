@@ -4,10 +4,10 @@
   "tags": [
     "Support"
   ],
-  "testInput": "",
+  "testInput": null,
   "githubUrl": "",
   "documentationUrl": "",
-  "deployUrl": "",
+  "deployUrl": "https://studio.lamatic.ai/_?templateSlug=json-summariser",
   "author": {
     "name": "Naitik Kapadia",
     "email": "naitikk@lamatic.ai"

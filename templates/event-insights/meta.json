@@ -5,10 +5,10 @@
     "Analysis",
     "Operations"
   ],
-  "testInput": "",
+  "testInput": null,
   "githubUrl": "",
   "documentationUrl": "",
-  "deployUrl": "",
+  "deployUrl": "https://studio.lamatic.ai/_?templateSlug=event-insights",
   "author": {
     "name": "Naitik Kapadia",
     "email": "naitikk@lamatic.ai"

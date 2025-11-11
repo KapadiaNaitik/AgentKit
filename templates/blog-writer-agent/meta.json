@@ -4,10 +4,10 @@
   "tags": [
     "Content"
   ],
-  "testInput": "",
+  "testInput": null,
   "githubUrl": "",
   "documentationUrl": "",
-  "deployUrl": "",
+  "deployUrl": "https://studio.lamatic.ai/_?templateSlug=blog-writer-agent",
   "author": {
     "name": "Naitik Kapadia",
     "email": "naitikk@lamatic.ai"
