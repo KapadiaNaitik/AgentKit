@@ -98,7 +98,7 @@
         "nodeId": "codeNode",
         "values": {
           "nodeName": "Row Chunking",
-          "code": "function objectToString(obj) {\n  return Object.entries(obj)\n    .map(([key, value]) => `${key}: ${value}`)\n    .join(\", \");\n}\n\noutput = [objectToString({{ triggerNode_1.output }})]\nreturn output"
+          "code": "function objectToString(obj) {\n  return Object.entries(obj)\n    .map(([key, value]) => `${key}: ${value}`)\n    .join(\", \");\n}\n\noutput = [objectToString({{ triggerNode_1.output }})]"
         }
       }
     },
