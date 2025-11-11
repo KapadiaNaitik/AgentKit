@@ -1,0 +1,64 @@
+{
+  "gmailNode_194": [
+    {
+      "name": "credentials",
+      "type": "select",
+      "label": "Credentials",
+      "required": true,
+      "isPrivate": true,
+      "description": "Select the credentials for Gmail authentication. Required to access the Gmail API.",
+      "defaultValue": "",
+      "fillFromStep": {
+        "name": "credentials",
+        "step": 0,
+        "nodeId": "gmailNode_506"
+      },
+      "isCredential": true
+    }
+  ],
+  "gmailNode_506": [
+    {
+      "name": "credentials",
+      "type": "select",
+      "label": "Credentials",
+      "required": true,
+      "isPrivate": true,
+      "description": "Select the credentials for Gmail authentication. Required to access the Gmail API.",
+      "defaultValue": "",
+      "isCredential": true
+    }
+  ],
+  "gmailNode_995": [
+    {
+      "name": "credentials",
+      "type": "select",
+      "label": "Credentials",
+      "required": true,
+      "isPrivate": true,
+      "description": "Select the credentials for Gmail authentication. Required to access the Gmail API.",
+      "defaultValue": "",
+      "fillFromStep": {
+        "name": "credentials",
+        "step": 0,
+        "nodeId": "gmailNode_506"
+      },
+      "isCredential": true
+    }
+  ],
+  "InstructorLLMNode_145": [
+    {
+      "mode": "instructor",
+      "name": "generativeModelName",
+      "type": "model",
+      "label": "Generative Model Name",
+      "required": true,
+      "isPrivate": true,
+      "modelType": "generator/text",
+      "description": "Select the model to generate text based on the prompt.",
+      "typeOptions": {
+        "loadOptionsMethod": "listModels"
+      },
+      "defaultValue": ""
+    }
+  ]
+}

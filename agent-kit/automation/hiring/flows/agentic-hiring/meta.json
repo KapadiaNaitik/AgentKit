@@ -1,0 +1,18 @@
+{
+  "name": "Agentic Hiring",
+  "description": "Hiring Automation Kit - AI-Powered Candidate Evaluation",
+  "tags": [],
+  "testInput": {
+    "name": "Dhruv Pamneja",
+    "email": "dpamneja@gmail.com",
+    "resume_url": "https://airtable.com/appFfoPiQsUx2JLXf/tblOGvfuTKKHoyKsS/recSDDQMlXAW0s3bq/fldncwF1e4KMUS64U/attmP6kfRy3LhFi27",
+    "job_description": "AI engineer"
+  },
+  "githubUrl": "",
+  "documentationUrl": "",
+  "deployUrl": "",
+  "author": {
+    "name": "Naitik Kapadia",
+    "email": "naitikk@lamatic.ai"
+  }
+}
