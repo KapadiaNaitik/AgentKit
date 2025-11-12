@@ -62,7 +62,8 @@ export const config={
       }
     },
     "api": {
-      "endpoint": process.env.LAMATIC_REASONING_API_ENDPOINT,
-      "projectId": process.env.LAMATIC_REASONING_PROJECT_ID
+      "endpoint": process.env.LAMATIC_API_URL,
+      "projectId": process.env.LAMATIC_PROJECT_ID,
+      "apiKey": process.env.LAMATIC_API_KEY
     }
   }
