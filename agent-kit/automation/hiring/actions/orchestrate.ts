@@ -1,9 +1,7 @@
 "use server"
 
 import { lamaticClient } from "@/lib/lamatic-client"
-import fs from "fs";
-
-const config = JSON.parse(Buffer.from(process.env.LAMATIC_CONFIG_HIRING, "base64").toString("utf8"));
+import { config } from "../orchestator"
 
 type SchemaToType<T> = {
   [K in keyof T]: T[K] extends "string"
