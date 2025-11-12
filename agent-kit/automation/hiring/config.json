@@ -1,0 +1,24 @@
+{
+    "name":"LamaHire",
+    "description":"A Next.js starter kit for goal-driven reasoning agents using Lamatic Flows.",
+    "tags":["agentic","hiring"],
+    "author":{
+        "name":"Lamatic AI",
+        "email":"info@lamatic.ai"
+    },
+        "steps": [
+            {
+                "id": "agentic-hiring",
+                "type": "mandatory",
+                "envKey": "AGENTIC_HIRING_WORKFLOW"
+            }
+        ]
+    ,
+    "integrations":[],
+    "features":[],
+    "demoUrl":"https://agent-kit-reasoning.vercel.app",
+    "githubUrl":"https://github.com/Lamatic/AgentKit/tree/main/templates/agentic/reasoning",
+    "deployUrl":"https://vercel.com/new/clone?repository-url=https://github.com/Lamatic/AgentKit&root-directory=templates/agentic/reasoning&env=LAMATIC_CONFIG_REASONING&envDescription=Your%20Lamatic%20Config%20Reasoning%20key%20is%20required.&envLink=https://lamatic.ai/templates/agentkits/agentic/agent-kit-reasoning",
+    "documentationUrl":"https://lamatic.ai/templates/agentkits/agentic/agent-kit-reasoning",
+    "imageUrl":""
+}

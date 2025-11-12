@@ -1,7 +1,7 @@
 {
-    "name": "Chat Bundle",
-    "description": "A chat bundle that combines data source indexing with a knowledge chatbot interface.",
-    "tags": ["chat", "rag", "knowledge-base"],
+    "name": "Search Bundle",
+    "description": "A semantic search bundle that indexes data sources and enables advanced search over your knowledge base.",
+    "tags": ["search", "semantic", "rag", "knowledge-base"],
     "author": {
         "name": "Naitik Kapadia",
         "email": "naitikk@lamatic.ai"

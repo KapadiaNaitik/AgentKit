@@ -1,7 +1,7 @@
 {
-    "name": "Chat Bundle",
-    "description": "A chat bundle that combines data source indexing with a knowledge chatbot interface.",
-    "tags": ["chat", "rag", "knowledge-base"],
+    "name": "Assistants Bundle",
+    "description": "A modular assistant bundle that allows connecting multiple data sources to diverse assistant interfaces for advanced RAG and knowledge workflows.",
+    "tags": ["assistant", "multi-source", "rag", "knowledge", "integration"],
     "author": {
         "name": "Naitik Kapadia",
         "email": "naitikk@lamatic.ai"
